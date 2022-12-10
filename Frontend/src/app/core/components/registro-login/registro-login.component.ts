@@ -52,7 +52,6 @@ export class RegistroLoginComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit(): void {
-    console.log(document.querySelector('.acceder'));
   }
 
   ngOnDestroy(): void {
